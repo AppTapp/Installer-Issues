@@ -2,7 +2,7 @@
 name: Crash report
 about: A crash occurring in Installer
 title: "[CRASH]"
-labels: ''
+labels: crash
 assignees: ''
 
 ---
